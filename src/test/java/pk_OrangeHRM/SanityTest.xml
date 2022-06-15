@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestSuite" parallel="false">
+    <test name="Test">
+        <classes>
+            <!-- <class name="pk_OrangeHRM.DateSelector_Example" />
+            <class name="pk_OrangeHRM.Drag_Drop" />
+            <class name="pk_OrangeHRM.OrangeHRM_Login_TestNG" /> 
+            <class name="pk_OrangeHRM.HDFC_Netbanking" />-->
+            <class name="pk_OrangeHRM.OrangeHRM_Login_TestNG" />
+            <!--<class name="pk_Orange_HRM.Delete_User_From_SearchList"/> -->
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

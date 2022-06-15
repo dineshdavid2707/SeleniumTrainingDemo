@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestSuite]" verbose="0">
+  <test name="Test">
+    <classes>
+      <class name="pk_OrangeHRM.OrangeHRM_Login_TestNG"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Failed suite [TestSuite] -->

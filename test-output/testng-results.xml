@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-14T18:27:14 IST" name="Default suite" finished-at="2022-06-14T18:27:37 IST" duration-ms="23465">
+    <groups>
+    </groups>
+    <test started-at="2022-06-14T18:27:14 IST" name="Default test" finished-at="2022-06-14T18:27:37 IST" duration-ms="23465">
+      <class name="pk_OrangeHRM.PDFFile_ReadData">
+        <test-method signature="testVerifyPDFTextUsing_Get()[pri:2, instance:pk_OrangeHRM.PDFFile_ReadData@f0da945]" started-at="2022-06-14T18:27:14 IST" name="testVerifyPDFTextUsing_Get" finished-at="2022-06-14T18:27:33 IST" duration-ms="19487" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testVerifyPDFTextUsing_Get -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:pk_OrangeHRM.PDFFile_ReadData@f0da945]" started-at="2022-06-14T18:27:33 IST" name="tearDown" finished-at="2022-06-14T18:27:37 IST" duration-ms="3887" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- pk_OrangeHRM.PDFFile_ReadData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
